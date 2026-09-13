@@ -1,135 +1,191 @@
-# Hi 👋, I'm Prince Kasaudhan
+# Hi, I'm Prince Kasaudhan 👋
 
-### Frontend / Full-Stack Developer
+### Full-Stack Developer | React.js | Node.js | MongoDB | SQL
 
-I build modern, responsive web applications and REST APIs using
-JavaScript, React.js, Node.js, Express.js, MongoDB and SQL.
+I build modern web applications, REST APIs, and backend systems
+with a focus on clean architecture, authentication, data management,
+and responsive user experiences.
+
+I'm continuously improving my skills in frontend development,
+backend engineering, databases, and software architecture.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 I'm focused on becoming a professional Full-Stack Developer
-- ⚛️ Currently working with React.js and JavaScript
-- 🛠️ Building REST APIs with Node.js and Express.js
+- 💻 Full-Stack Developer focused on JavaScript technologies
+- ⚛️ Building applications with React.js
+- 🟢 Developing REST APIs with Node.js and Express.js
 - 🗄️ Working with MongoDB and MySQL
-- 🔐 Interested in authentication, APIs and scalable applications
-- 📚 Continuously improving my problem-solving and development skills
-- 🎯 Open to internships and junior developer opportunities
+- 🔐 Building authentication and authorization systems
+- 📊 Working with APIs, databases, and data analytics
+- 🧩 Interested in clean code and scalable application architecture
+- 🚀 Currently preparing for professional developer opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### Database
+### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools
+### Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ---
 
-## ⭐ Featured Projects
+# Featured Projects
 
-### 🔐 User Authentication System
+## 🔐 User Authentication System
 
-Secure authentication and authorization REST API built with Node.js,
-Express.js and MongoDB.
+A secure authentication and authorization backend built with
+Node.js, Express.js and MongoDB.
 
-**Features:**
-- JWT authentication
-- Password hashing with bcrypt
+### Key Features
+
+- JWT-based authentication
+- Secure password hashing with bcrypt
+- User registration and login
+- Protected API routes
 - Role-based authorization
-- Protected routes
-- User profile
-- CRUD operations
+- User profile management
+- User CRUD operations
+- Input validation
 - Swagger API documentation
 
+**Tech:** Node.js · Express.js · MongoDB · Mongoose · JWT · bcrypt
+
+[View Repository](https://github.com/Princekasaudhan-web/USER_Authentication_System)
+
 ---
 
-### 📊 Data Analytics API
+## 📊 Data Analytics API
 
-REST API for analyzing post data using MongoDB aggregation pipelines.
+A REST API designed to process and analyze application data
+using MongoDB aggregation pipelines.
 
-**Features:**
-- MongoDB aggregation
-- Data filtering
-- Grouping and projection
-- Analytics endpoints
+### Key Features
+
 - RESTful API architecture
+- MongoDB aggregation
+- Data grouping and projection
+- Filtering and analysis
+- Structured API responses
+- Backend data processing
+
+**Tech:** Node.js · Express.js · MongoDB · Mongoose
+
+[View Repository](https://github.com/Princekasaudhan-web/data-analytics-api)
 
 ---
 
-### 💰 Budget Tracker
+## 💰 Budget Tracker
 
-A modern React finance dashboard for tracking income, expenses,
-budgets and savings.
+A responsive React-based personal finance application designed
+to track income, expenses, savings, budgets and financial activity.
 
-**Tech:** React.js • JavaScript • Tailwind CSS
+### Key Features
+
+- Dashboard overview
+- Income and expense tracking
+- Budget management
+- Reports and analytics
+- Investment section
+- Transaction management
+- Responsive interface
+- Local data persistence
+
+**Tech:** React.js · JavaScript · Tailwind CSS · React Router
+
+[View Repository](https://github.com/Princekasaudhan-web)
 
 ---
 
-### 📦 Product CRUD API
+## 📦 Product CRUD API
 
-RESTful product management API with CRUD operations,
-filtering and pagination.
+A RESTful product management API implementing complete CRUD
+operations with filtering and pagination.
 
-**Tech:** Node.js • Express.js • MongoDB
+### Key Features
+
+- Create products
+- Retrieve products
+- Retrieve individual products
+- Update products
+- Delete products
+- Product filtering
+- Pagination
+- MongoDB data persistence
+
+**Tech:** Node.js · Express.js · MongoDB · Mongoose
 
 ---
 
-### 📁 File Upload API
+## 📁 File Upload API
 
-REST API for secure file uploads using Node.js, Express.js and Multer.
+A backend API for handling image uploads with validation and
+controlled file-size restrictions.
 
-**Features:**
+### Key Features
+
 - Image upload
+- Multipart form-data handling
 - File type validation
-- File size restrictions
-- Upload endpoint
+- File size validation
+- Uploaded file storage
 - Static file serving
 
----
-
-## 📚 Currently Learning
-
-- Advanced JavaScript
-- React.js
-- Backend architecture
-- REST API design
-- Authentication & Authorization
-- SQL & MongoDB
-- Deployment
-- System Design
+**Tech:** Node.js · Express.js · Multer
 
 ---
 
-## 🎯 2026 Goals
+# What I'm Currently Working On
+Frontend
+├── React.js
+├── JavaScript
+├── Responsive UI
+├── Component architecture
+└── State management
 
-- Build production-quality React applications
-- Build scalable backend APIs
-- Improve data structures and algorithms
-- Strengthen problem-solving skills
-- Contribute to open-source projects
-- Secure a frontend/full-stack developer opportunity
+Backend
+├── Node.js
+├── Express.js
+├── REST API design
+├── Authentication
+└── API architecture
+
+Database
+├── MongoDB
+├── Mongoose
+├── MySQL
+└── SQL
+
+Engineering
+├── Git & GitHub
+├── API testing
+├── Clean code
+├── Error handling
+├── Deployment
+└── System design fundamentals
 
 ---
 
@@ -142,3 +198,26 @@ REST API for secure file uploads using Node.js, Express.js and Multer.
 ---
 
 ⭐ Thanks for visiting my profile!
+
+
+                    PRINCE KASAUDHAN
+                           ↓
+                  FULL-STACK DEVELOPER
+                           ↓
+        React.js + Node.js + MongoDB + SQL
+                           ↓
+             ┌─────────────┴─────────────┐
+             ↓                           ↓
+        FRONTEND                    BACKEND
+             ↓                           ↓
+     Budget Tracker             Authentication API
+                                 Analytics API
+                                 Product API
+                                 File Upload API
+             └─────────────┬─────────────┘
+                           ↓
+                 Clean documented projects
+                           ↓
+                Available for opportunities
+
+
